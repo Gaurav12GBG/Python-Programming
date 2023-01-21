@@ -1,0 +1,94 @@
+1. Write a python program to store 10 numbers in a list and print the numbers present in a list.
+
+2. Write a program that find greatest of three numbers using function. (Take three numbers as input from user and pass these numbers as arguments of the function).
+
+3. Write a python program to calculate the length of the string.
+
+4. Write a python program that take input from user as a string and convert that string input into the uppercase.
+
+5. Write a python program to remove the starting four character of Non-Empty String. 
+	Given String is : "India is my country"
+
+6. Take a 5 numbers as a input and store it into the empty list. Calculate the addition and multiplication of whole numbers present in a list using while loop.
+
+7. Write a python program to create a tuple using different data types into a string. (Declare one empty tuple and take input from user).
+
+8. Write a python program to convert given tuple into a string.
+          tuple = (1, 2, "Rahul", "Python Programming", "Java", 125.555, 'A')
+
+9. Declare a dictionary with student data such as studentName, studentRollNo, studentDepartment and favoriteProgrammingLanguage, etc. print each pair in a dictionary as output...
+
+10. Write a python program to add a new key "Education" into the above studentData dictionary and print it.
+
+11. Write a python program to print seperate keys and values from the studentData dictionary.
+
+12. Write a python program to check whether the given key exists in a dictionary or not . Use above dictionary..
+
+13. Write a python program to remove the key from above dictionary.
+	1. Check whether the given dictionary is empty or not.
+	2. Take input as a key from user for removing and then remove it.
+
+14. Write a python program to create a set with data of string type. print it using for loop.
+
+15. Write a python program to perform following using set..
+	1. Add a new item in a set
+	2. Remove a old item from the set
+
+16. To accept N numbers from user. Compute and display maximum in list , minimum in list , sum and average of numbers.
+
+17. Write a python program to check whether the input number is even OR odd.
+
+18. To accept a student five courses marks and compute his/her result student is passing if he/she scores marks equal to and above 40 in each course if students course aggregate greater than 75% , then the grade in distinction. If aggregate is 60>= and <75 then the grade is first division. If aggregate is 50>= and <60 , then the grade is second division. If aggregate is 40>= and <50, then the grade is third division. If aggregate is 35>= and <40 , then grade is fail.
+
+19. Write a python program to find out the factorial of a given number using iterative approach.
+
+20. Write a python program to find out how many duplicate characters are present in a string which is entered by the user.
+
+21. Write a python program to check the string is palindrome OR not.
+
+22. Accepts the number from the user and print the digit in a reverse order.
+	(e.g  input : 123          Output : 321)
+
+23. Develope a python code check whether input number is Armstrong number or not . An Armstrong number is an integer with three digits such that the sum of the cubes of its digits is equal to the number itself. Ex. 371
+
+24. Write a python accept from user the number of fibonacci series to be generated and print the Fibonacci series.
+
+25. Write a python program that accepts a string from user and perform following string operation
+	1. Calculate length of string
+	2. String Reversal
+	3. Equality check of two string
+	4. Check palindrome
+	5. Check Substring
+
+26. Write a python program to check whether the given number is prime OR not.
+
+27. Generate a python list of all the even numbers between 5 to 50.
+
+28. Write a python program to count total number of digit present in a number.
+	(e.g    Input : 85444          Output: 5)
+
+29. Write a python program to print the list of numbers in reverse order.
+
+30. Write a python program to display all prime numbers within a specific range entered by user.
+
+31. Write a menu driven program to print the following using function:
+	1. Cube of a number
+	2. Square of a number
+	3. Cube root of a number
+	4. Square root of a number
+	5. Factorial of a number
+
+32. Write a python program to check whether the given character are vowels OR not.
+
+33. Write a python program to convert the temperature in degree centigrade to fahrenheit.
+	(Formula : f = (9 * C/5) + 32)
+
+34. Write a python program to check whether the given number is a multiple of 5 or not.
+
+35. Write a python program to check whether the year entered by user is leap year OR not.
+
+36. Write a python program to handle the exceptions ValueError and ZeroDivisionError.
+
+37. Write a python program to show the use of finally block. (You can take any example to show the demonstration).
+
+38. Write a python program to check whether the  given character is vowels OR not.
